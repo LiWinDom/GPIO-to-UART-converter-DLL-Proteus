@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{634F4501-384D-40A1-9857-538A882FF8DE}|gpio2uartdll\\gpio2uartdll.vcxproj|E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{634F4501-384D-40A1-9857-538A882FF8DE}|gpio2uartdll\\gpio2uartdll.vcxproj|solutionrelative:gpio2uartdll\\GPIO_UART_Converter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634F4501-384D-40A1-9857-538A882FF8DE}|gpio2uartdll\\gpio2uartdll.vcxproj|E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{634F4501-384D-40A1-9857-538A882FF8DE}|gpio2uartdll\\gpio2uartdll.vcxproj|solutionrelative:gpio2uartdll\\GPIO_UART_Converter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPIO_UART_Converter.h",
+              "DocumentMoniker": "E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.h",
+              "RelativeDocumentMoniker": "gpio2uartdll\\GPIO_UART_Converter.h",
+              "ToolTip": "E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.h",
+              "RelativeToolTip": "gpio2uartdll\\GPIO_UART_Converter.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-12T06:07:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPIO_UART_Converter.cpp",
+              "DocumentMoniker": "E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.cpp",
+              "RelativeDocumentMoniker": "gpio2uartdll\\GPIO_UART_Converter.cpp",
+              "ToolTip": "E:\\raf\\GPIO-to-UART-converter-DLL-Proteus\\gpio2uartdll\\GPIO_UART_Converter.cpp",
+              "RelativeToolTip": "gpio2uartdll\\GPIO_UART_Converter.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwLUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-12T06:07:25.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
